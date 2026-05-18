@@ -1,4 +1,0 @@
-discord.py
-python-dotenv
-flask
-requests==2.30.0
