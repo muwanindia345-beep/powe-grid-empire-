@@ -17,7 +17,7 @@ def serve(filename):
 
 def run_bot():
     import subprocess,os
-    subprocess.run(['python','power_empire_bot.py'],
+    subprocess.run(['python','main.py'],
                    cwd=os.path.dirname(os.path.abspath(__file__)))
 
 def keep_alive():
